@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", ]
+      "keywords": [ "Python", "C++", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Eclipse IDE", "IDLE", "jGRASP IDE", "Git/GitHub" ]
     }
   ],
   "education": [

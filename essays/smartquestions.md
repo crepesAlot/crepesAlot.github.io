@@ -22,3 +22,8 @@ This is when it becomes important to realize the difference in asking a smart qu
 ## A Smart Question
 
   On the flip side, [this question](https://stackoverflow.com/questions/75082069/error-loading-python-modules-when-embedding-python-in-c-openfoam) found on StackOverflow did follow the guidelines to asking a smart question. The headline made it clear what the subject was, and the further details also explained in depth what was occurring. The person also provided not only the code that they wrote, but also the error messages that were caused by the code. One can also see that an effort was made because the code they provided was a simplified version, such that anyone who looked at it would have a easier time figuring out what went wrong. They then followed it up by explaining their own attempts at finding a solution, and what the results of those attempts led to. The person ends it off by asking a clear cut question, rather than a broad one.
+
+
+## Thoughts
+
+  Reading through the guidelines of what differentiates a smart question from a normal (dare I say dumb) question, was extremely interesting. However complicated it may or may not seem, the guidelines are purely logical. You simply need to show that you put in the same amount of work and effort into the question that the person answering would also put in. Showing that you’re not simply being lazy and trying to take advantage of others is simply the respectful thing to do, and naturally people would more likely to respond in kind. Not only that, but by asking smart questions, the fact that you’re more likely to receive smart answers means that not only you but the person answering will also have the opportunity to grow.

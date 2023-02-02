@@ -19,6 +19,6 @@ This video game was the first video game I ever made and is what got me hooked t
   <img width="500px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_victory.PNG" class="img-thumbnail" >
 </div>
 
-As stated before, the game itself is an incredibly simple one. You control the player to protect a flower as feral hogs attempt to attack both you and the flower. The player earns points and wins the game once they reach 800 points. The player can lose the game if either they or the flower loses all of its health points. I had made some attempts at adding in a reloading mechanic, as well as a way to heal the player (at the cost of points).
+As stated before, the game itself is an incredibly simple one. You control the player to protect a flower as feral hogs attempt to attack both you and the flower. The player earns points and wins the game once they reach 800 points. The player can lose the game if either they or the flower loses all of its health points. I had made some attempts at adding in a reloading mechanic, as well as a way to heal the player (at the cost of points). One of the biggest challenges I had during this project was getting the enemy AI to pathfind to either the player or the core. In the end, I solved it by making it so that the enemy would target the player if they were within a certain range and target the core otherwise.
 
 You can play the game for yourself <a href="https://www.construct.net/en/free-online-games/rxfinal-7995/play"><i class="large github icon "></i>here</a>.

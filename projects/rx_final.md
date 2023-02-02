@@ -13,8 +13,8 @@ summary: "My first ever video game and introduction to programming."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_fail.PNG" class="img-thumbnail" >
-  <img width="400px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_victory.PNG" class="img-thumbnail" >
+  <img width="500px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_fail.PNG" class="img-thumbnail" >
+  <img width="500px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_victory.PNG" class="img-thumbnail" >
 </div>
 
 This video game was the first video game I ever made and is what got me hooked to programming. This project was done when I was a freshman in highschool in a game design class. It is a simple game, as to be expected from someone who was just introduced to both game design and programming, but it was a fun project nonetheless. The platform used was Construct 2, which has since been upgraded to Construct 3, and it used the HTML5 language.

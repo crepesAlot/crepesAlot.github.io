@@ -13,7 +13,7 @@ summary: "My first ever video game and introduction to programming."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="...img/rxFinal_victory.PNG" class="img-thumbnail" >
+  <img width="200px" src="https://github.com/crepesAlot/crepesAlot.github.io/blob/main/img/rxFinal_fail.PNG" class="img-thumbnail" >
   <img width="200px" src="...img/rxFinal_fail.PNG" class="img-thumbnail" >
 </div>
 

@@ -19,6 +19,6 @@ This video game was the first video game I ever made and is what got me hooked t
   <img width="500px" src="../img/rxFinal_victory.PNG" class="img-thumbnail" >
 </div>
 
-As stated before, the game itself is an incredibly simple one. You control the player to protect a flower as feral hogs attempt to attack both you and the flower. The player earns points and wins the game once they reach 800 points. The player can lose the game if either they or the flower loses all of its health points. I had made some attempts at adding in a reloading mechanic, as well as a way to heal the player (at the cost of points).
+As stated before, the game itself is an incredibly simple one. You control the player to protect a flower as feral hogs attempt to attack both you and the flower. The player earns points and wins the game once they reach 800 points. The player can lose the game if either they or the flower loses all of its health points. I had made some attempts at adding in a reloading mechanic, as well as a way to heal the player (at the cost of points). The most difficult part of the project was getting the enemies to target both the player and core. In the end, I was able to find a solution by only having the enemies target the player if they are within a certain range, otherwise they would target the core.
 
 You can play the game for yourself <a href="https://www.construct.net/en/free-online-games/rxfinal-7995/play"><i class="large github icon "></i>here</a>.

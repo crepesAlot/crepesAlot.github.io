@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: projects/rxFinal.PNG
 title: "RX_Final Video Game"
 date: 2023
 published: true
@@ -13,9 +13,8 @@ summary: "My first ever video game and introduction to programming."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="[../img/micromouse/micromouse-robot.png](https://github.com/crepesAlot/crepesAlot.github.io/blob/main/projects/rxFinal_fail.PNG)" class="img-thumbnail" >
+  <img width="200px" src="[../img/micromouse/micromouse-robot-2.jpg](https://github.com/crepesAlot/crepesAlot.github.io/blob/main/projects/rxFinal_fail.PNG)" class="img-thumbnail" >
 </div>
 
 This video game was the first video game I ever made and is what got me hooked to programming. This project was done when I was a freshman in highschool in a game design class. It is a simple game, as to be expected from someone who was just introduced to both game design and programming, but it was a fun project nonetheless. The platform used was Construct 2, which has since been upgraded to Construct 3, and it used the HTML5 language.

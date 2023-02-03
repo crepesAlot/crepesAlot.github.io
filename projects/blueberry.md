@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/pack.png
+image: ../img/pack.PNG
 title: "Blueberry"
 date: 2023
 published: true

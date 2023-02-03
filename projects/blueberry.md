@@ -17,7 +17,7 @@ This was a personal project that I worked on with friends in our spare time. We 
   <img width="500px" src="../img/blueberryTextures.png" class="img-fluid" >
 </div>
 
-The coding for resource packs of minecraft is very minimal and simple. Most of the code is repetitive, simply going through every case that the texture may need to load. One of the sample codes that can be seen below allows for the textures of a birch log to be varied, this code specifically for the textures along the x-axis of the block. The rest of the code for this is the exact same, only for the y and z axis of the block.
+The coding for resource packs of minecraft is very minimal and simple. Most of the code is repetitive, simply going through every case that the texture may need to load. Most of the code that was written was to allow for a variety of textures for a single block. So not only did we have to write some code for each type of texture, but we also had to create each texture. More often than not, this would take time because while it may look good in the editor, it would look very different in game, causing us to redo the texture all over again. One of the sample codes that can be seen below allows for the textures of a birch log to be varied, this code specifically for the textures along the x-axis of the block. The rest of the code for this is the exact same, only it was for the y and z axis of the block.
 
 ```
    "variants": {

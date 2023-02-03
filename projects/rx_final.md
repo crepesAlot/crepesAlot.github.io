@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rxFinal.PNG
 title: "RX_Final Video Game"
-date: 2023
+date: 2019
 published: true
 labels:
   - Game Design

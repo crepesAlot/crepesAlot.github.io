@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "I have hopes and dreams too!"
+title: "I have Hopes and Dreams too!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
 published: true

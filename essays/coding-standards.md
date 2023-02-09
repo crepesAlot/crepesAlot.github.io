@@ -22,7 +22,7 @@ Working in a messy environment is never the best option. While it may be okay fo
 I personally already try to keep my code organized. Not just because it functionally helps, but because I get very annoyed with messy code and keeping it nice and neat makes me happy. That's why I don't particularly mind using ESLint, because most of he coding standards that it enforces are things that I already do for the most part. That doesn't mean that I don't have any issues with ESLint at all, though. There have already been instances where I write some code and get that annoying error message despite the code looking good and working perfectly fine for what I was trying to do.  
 The following code produces an error with ESLint, despite the code working fine.
 
-```angular2html
+```
 function ziplist(arr1, arr2) {
   const newArray = [];
   for (const key in arr1) {
@@ -33,7 +33,7 @@ function ziplist(arr1, arr2) {
 }
 ```
 The solution to the error was:
-```angular2html
+```
 function ziplist(arr1, arr2) {
   const newArray = [];
   for (const key in arr1) {

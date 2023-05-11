@@ -4,7 +4,7 @@ type: project
 image: ../img/pack.PNG
 title: "Blueberry"
 date: 2023
-published: true
+published: false
 labels:
   - Javascript
 summary: "A custom minecraft resource pack named Blueberry."

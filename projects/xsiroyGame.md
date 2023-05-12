@@ -43,9 +43,9 @@ Xsiroy was a group project video game that I made in my freshman year of high sc
 Below are the three player sprites:
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/player1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/player2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/player3.png" class="img-thumbnail" >
+  <img width="200px" src="../img/projects/player1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/projects/player2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/projects/player3.png" class="img-thumbnail" >
 </div>
   
 ## Challenges

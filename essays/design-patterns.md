@@ -16,7 +16,7 @@ Learning about design patterns, and by extention, anti-patterns, is one of the b
 <br>
 Rather than blindly hurtling through a problem, and potentially creating a bigger tangled mess, it's much more efficient to take a look at the tried and true methods of our predecessors. By taking a look at these methods or templates, one can then build off it to fit their own needs, saving both time and effort. <br>
 # Home Improvements
-<img src="../img/home.png" class="rounded float">
+<img src="../img/essays/home.png" class="rounded float">
 It is important to note that just because something works, doesn't make it the best way. <br>
 <br>
 Perhaps you want to remodel your house, or even do some redecorating. Looking at online designs and layouts is a great way to see how you might want to do things, but you can't simply go at it without any consideration for how the rest of the house. Randomly copying some designs may have part of your house looking very nice, but without proper consideration, the colors and designs might clash with the rest of your original house. <br>

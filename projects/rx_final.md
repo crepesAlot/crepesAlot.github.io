@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rxFinal.PNG
+image: img/projects/rxFinal.PNG
 title: "RX_Final Video Game"
 date: 2019
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/healthPackSprite.PNG
+image: ../img/projects/healthPackSprite.PNG
 title: "Xsiroy"
 date: 2019
 published: true

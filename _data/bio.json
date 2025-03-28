@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mark Burgess",
-    "label": "Student",
+    "label": "Hele Imua Intern",
     "picture": "https://github.com/crepesAlot.png",
-    "email": "mhburg@hawaii.edu",
+    "email": "mkh.burg@gmail.com",
     "phone": "727-313-6422",
     "website": "https://crepesAlot.github.io",
-    "summary": "Student studying for Bachelor's degree in Computer Science at University of Hawaii at Manoa. Expected graduation date is 2024.",
+    "summary": "An intern in the Hele Imua Internship Program for the Department of Human Services, Med-QUEST Division.",
     "location": { "address": "2347 Ahaiki St.", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "crepesAlot", "url": "https://github.com/crepesAlot" },
@@ -21,20 +21,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Java", "Javascript" ]
+      "keywords": [ "Python", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse IDE", "IDLE", "jGRASP IDE", "Git/GitHub", "Intellij" ]
+      "keywords": [ "Visual Studio", "Eclipse IDE", "IDLE", "jGRASP IDE", "Git/GitHub", "Intellij" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-08-06",
-      "endDate": "Present",
+      "endDate": "2025-12-20",
       "courses": [
       ]
     },

@@ -13,7 +13,7 @@ summary: "Capstone project contributions to Kaiaulu, an open-source R package fo
 
 ### Capstone Project: Contributions to Kaiaulu
 
-**Timeline:** Aug - Dec 2024\n
+**Timeline:** Aug - Dec 2024  
 **Team Size:** 4 students  
 **Tech Stack:** R, GitHub API, YAML, RMarkdown, GitHub Actions  
 **Project Sponsors:** Carlos Paradis, Rick Kazman

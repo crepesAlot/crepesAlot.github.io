@@ -24,7 +24,7 @@ summary: "Capstone project contributions to Kaiaulu, an open-source R package fo
 **My Contributions:**  
 - **Refactoring & Structure:** Reorganized folder hierarchy and reconfigured project-level configuration files to improve modularity.  
 <div class="text-center p4">
-  <img src="../img/projects/kaiaulu_file_hierarchy.png" width="500px" class="img-fluid" alt="Kaiaulu Updated File Hierarchy">
+  <img src="../img/projects/kaiaulu_file_hierarchy.png" width="500px" class="img-fluid" alt="Kaiaulu Updated File Hierarchy" />
 </div> 
 - **Configuration Tools:** Implemented functionality to create standardized folder structures on users’ local devices.  
 - **API Integration:** Extended usage of GitHub’s API endpoints, enabling richer data collection and analysis.  
@@ -37,6 +37,11 @@ summary: "Capstone project contributions to Kaiaulu, an open-source R package fo
 **Sponsor Feedback:**  
 > “The team performed an immense amount of high quality work throughout Kaiaulu codebase, not only in adding new features, but also refactoring major parts of Kaiaulu to more easily accommodate new changes. I appreciate the engagement, enthusiasm, and availability of the group in seeing the work through.”  
 > – *Carlos, Project Sponsor*  
+
+**Project Cheatsheet**  
+<div class="text-center p4">
+  <img src="../img/projects/kaiaulu_cheatsheet.png" class="img-fluid" alt="Kaiaulu Project Cheatsheet" />
+</div>
 
 **Links:**  
 - [Kaiaulu Repository](https://github.com/sailuh/kaiaulu)  

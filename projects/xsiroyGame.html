@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Xsiroy | Mark Burgess | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/crepesAlot.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mark Burgess | Professional Portfolio">
+    <meta property="og:url" content="https://crepesAlot.github.io/projects/xsiroyGame.html">
+    <meta property="og:title" content="Xsiroy | Mark Burgess | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/crepesAlot.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Xsiroy | Mark Burgess | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Mark Burgess</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Xsiroy</h1>
+ <p>Xsiroy was a group project video game that I made in my freshman year of high school. The game was made using Construct 2, which used the HTML5 language. There were many improvements to this game when compared to the first video game that I made. For starters, this game was a much more complicated game, as it consisted of a total of three levels, as well as a start and end screen. The combat was more complex as well, as the player was able to access a larger variety of weapons and also had to fight more enemies on each level. To finish it off, I also created a boss at the final level that the player had to defeat. An example code below can be seen in controlling one of the simpler enemies in the game:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> &lt;conditions&gt;
+    &lt;condition id="0" name="On collision with another object" sid="912384551833634" type="Bullet2"&gt;
+        &lt;param id="0" name="Object"&gt;Enemy1&lt;/param&gt;
+    &lt;/condition&gt;
+    &lt;condition id="-7" name="Compare instance variable" sid="312117402632281" type="Enemy1"&gt;
+        &lt;param id="0" name="Instance variable"&gt;Health&lt;/param&gt;
+        &lt;param id="1" name="Comparison"&gt;4&lt;/param&gt;
+        &lt;param id="2" name="Value"&gt;0&lt;/param&gt;
+    &lt;/condition&gt;
+ &lt;/conditions&gt;
+    &lt;actions&gt;
+       &lt;action id="-9" name="Destroy" sid="510488650559699" type="Bullet2" /&gt;
+       &lt;action id="-12" name="Subtract from" sid="444757803847030" type="Enemy1"&gt;
+             &lt;param id="0" name="Instance variable"&gt;Health&lt;/param&gt;
+             &lt;param id="1" name="Value"&gt;1&lt;/param&gt;
+       &lt;/action&gt;
+       &lt;action id="-22" name="Set angle toward position" sid="310445351874814" type="Enemy1"&gt;
+             &lt;param id="0" name="X"&gt;player.X-random(-25,25)&lt;/param&gt;
+             &lt;param id="1" name="Y"&gt;player.Y-random(-25,25)&lt;/param&gt;
+        &lt;/action&gt;
+</code></pre></div></div>
+
+<h2 id="the-game">The Game</h2>
+
+<p>Xsiroy was a top down shooter game that consisted of 3 levels. The player would start with a pistol, and would have to fight through enemies to reach an elevator to move on to the next level. At the next level, they would unlock a new weapon and have a new objective before they could advance to the next level. The player would have to go around and activate generators in order to power the elevator so that they could move on. While the enemies would be more numerous, the player would also be able to discover health packs to increase their survivability. Once the player activates the elevator, they could move on to the final level. There, the player would unlock the third and final weapon, which they could use to fight the final boss. 
+Below are the three player sprites:</p>
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/projects/player1.png" class="img-thumbnail" />
+  <img width="200px" src="../img/projects/player2.png" class="img-thumbnail" />
+  <img width="200px" src="../img/projects/player3.png" class="img-thumbnail" />
+</div>
+
+<h2 id="challenges">Challenges</h2>
+
+<p>The most difficult part of this project was the restrictions placed upon us. We were using a free version of Construct 2, which limited not only the levels we could create but also the amount of code we could write. As such, many of our ideas and mechanics had to be scrapped in order to fit within the maximum lines of code. Another difficult part of the project was creating the sprites. My group members and I were not very artistic, so we had a hard time designing the sprites to use for our game (quite a few of them were simple geometric shapes in a single color). Unfortunately, most of the code for the game has been corrupted and it is not unplayable. Despite those troubles, it was a great deal of fun planning and creating this video game with my friends and classmates, and I will always look fondly upon this experience.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

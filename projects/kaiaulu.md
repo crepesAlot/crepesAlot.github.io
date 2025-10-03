@@ -1,18 +1,19 @@
 ---
 layout: project
 type: project
-image: ../img/projects/kaiaulu_logo.PNG
+image: ../img/projects/kaiaulu_logo.png
 title: "Kaiaulu"
 date: 2024
 published: true
 labels:
   - R
-summary: "A Open source R package mining software."
+  - Github
+summary: "Capstone project contributions to Kaiaulu, an open-source R package for software repository mining. Worked on refactoring, configuration tools, and GitHub API integration."
 ---
 
 ### Capstone Project: Contributions to Kaiaulu
 
-**Timeline:** Aug - Dec 2024 
+**Timeline:** Aug - Dec 2024\n
 **Team Size:** 4 students  
 **Tech Stack:** R, GitHub API, YAML, RMarkdown, GitHub Actions  
 **Project Sponsors:** Carlos Paradis, Rick Kazman

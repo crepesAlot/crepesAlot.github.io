@@ -23,6 +23,7 @@ summary: "Capstone project contributions to Kaiaulu, an open-source R package fo
 
 **My Contributions:**  
 - **Refactoring & Structure:** Reorganized folder hierarchy and reconfigured project-level configuration files to improve modularity.  
+[Updated File Hierarchy](../img/projects/kaiaulu_file_hierarchy.png)  
 - **Configuration Tools:** Implemented functionality to create standardized folder structures on users’ local devices.  
 - **API Integration:** Extended usage of GitHub’s API endpoints, enabling richer data collection and analysis.  
 - **Centralized Configuration Handling:** Streamlined the process of gathering details from project configuration (`.yml`) and decoupled notebooks (`.Rmd`) to reduce redundancy.  
